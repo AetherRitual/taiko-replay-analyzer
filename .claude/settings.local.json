@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(file /home/teemu/ClaudeCODE/replayplayer/*)",
+      "Bash(python3:*)",
+      "Bash(chmod +x /home/teemu/ClaudeCODE/replayplayer/main.py)"
+    ]
+  }
+}

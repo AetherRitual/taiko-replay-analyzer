@@ -1,0 +1,14 @@
+# User config and cache (auto-generated on first run)
+config.txt
+beatmap_cache.json
+
+# Replay files
+*.osr
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (created by run.bat)
+.venv/
