@@ -1,3 +1,6 @@
+AI slop.
+polluting the environment so you can see fullalt %
+
 # osu!Taiko Replay Analyzer
 
 Visualize and analyze osu!Taiko replays. Detects playstyle (full-alt / singletap / hybrid), tracks BPM comfort zones, shows pattern weak spots, and builds per-player profiles across many replays.
