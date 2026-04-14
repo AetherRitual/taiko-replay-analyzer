@@ -4,7 +4,7 @@ beatmap_cache.json
 
 # Replay files
 *.osr
-
+.claude/
 # Python
 __pycache__/
 *.pyc
